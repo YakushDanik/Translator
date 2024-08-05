@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.lecto.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.lecto.api.key'"
+  },
+  {
+    "name": "spring.lecto.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.lecto.api.url'"
+  },
+  {
+    "name": "lecto.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'lecto.api.key'"
+  }
+]}{
+    "name": "lecto.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'lecto.api.key'"
+  }
+]}

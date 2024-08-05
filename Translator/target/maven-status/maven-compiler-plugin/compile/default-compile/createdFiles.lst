@@ -1,0 +1,10 @@
+com\example\model\LectoTranslationRequest.class
+com\example\controller\TranslationController.class
+com\example\config\AppConfig.class
+com\example\repository\TranslationRepository.class
+com\example\service\TranslationService.class
+com\example\service\TranslationTask.class
+com\example\repository\TranslationRepository$TranslationRequestRowMapper.class
+com\example\TranslatorApplication.class
+com\example\model\TranslationRequest.class
+com\example\model\LectoTranslationResponse.class
